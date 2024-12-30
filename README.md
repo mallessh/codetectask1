@@ -1,4 +1,5 @@
-Name: PULI MALLESH Company: CODTECH IT SOLUTIONS PVT. LTD Intern ID: CT12EQK Domain: Embedded Systems Duration: December 17th, 2024 to February 17th, 2025
+Name: PULI MALLESH Company: CODTECH IT SOLUTIONS PVT. LTD Intern ID: CT12EQK![WhatsApp Image 2024-12-30 at 7 20 39 PM (1)](https://github.com/user-attachments/assets/1192e3dd-e9e9-4aa2-ae89-0ed32ebef61c)
+ Domain: Embedded Systems Duration: December 17th, 2024 to February 17th, 2025
 
 Overview of the Project Project: LED Blinking with Arduino Program an Arduino board to blink an LED at a specific interval. This project introduces basic embedded programming concepts and interfacing with hardware.
 
@@ -14,4 +15,5 @@ Loop Function (loop()): Repeats indefinitely. Turns the LED on, waits for the sp
 
 Functions Used: pinMode(pin, mode): Configures the specified pin as INPUT or OUTPUT. digitalWrite(pin, value): Sets the pin to HIGH (ON) or LOW (OFF). delay(ms): Pauses the program for the specified duration in milliseconds.
 
-Testing Upload the code to your Arduino using the Arduino IDE. Check if the LED blinks at 1-second intervals. If it doesn’t work: Verify the wiring. Check if the LED is functional.![WhatsApp Image 2024-12-30 at 7 20 39 PM](https://github.com/user-attachments/assets/4b657359-dfa9-4a89-bf6c-63ff2948ba67)
+Testing Upload the code to your Arduino using the Arduino IDE. Check if the LED blinks at 1-second intervals. If it doesn’t work: Verify the wiring. Check if the LED is functional.![WhatsApp Image 2024-12-30 at 7 20 39 PM (1)](https://github.com/user-attachments/assets/16f6a0d7-d2ea-4736-9145-0710b13a9611)
+
